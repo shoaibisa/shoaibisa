@@ -1,8 +1,8 @@
 # Hi there 👋
 
-
-**shoaibisa/shoaibisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- 
+**shoaibisa/shoaibisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... My class work
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+ -->
+- 🔭 Working on my classworks.
