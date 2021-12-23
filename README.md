@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 - 🔭 Working on my classworks.
 
 
+### Top Language used
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibisa)
+
 ### My stats
 
 ![Shoaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoaibisa)
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shoaibisa)
