@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ### My stats
 
-![Shoaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoaibisa&hide=contribs,prs)
+![Shoaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoaibisa)
