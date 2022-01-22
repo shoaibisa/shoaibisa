@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 
  -->
 - 🔭 Working on my classworks.
+- 🌱 I’m currently learning DSA and React.
+- 💬 Ask me [mail](mailto:shoaibisa1@gmail.com)
+
+## 📫 Reach me at
+[Linkedin](https://www.linkedin.com/in/shoaibisa/)
+[Twitter](https://www.twitter.com/shoaibisa)
+[Hackerrank](https://www.hackerrank.com/shoaibisa)
+
 
 
 ### Top Language used
