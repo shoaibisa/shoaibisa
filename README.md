@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 
 
-### Top Language used
+<!-- ### Top Language used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibisa)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibisa) -->
 
 ### My stats
 
@@ -36,3 +36,6 @@ Here are some ideas to get you started:
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shoaibisa)
+
+<summary><b>📊 Github Contribution Graph</b></summary>
+<p align="center"<a href="#"><img alt="Shoaib Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shoaibisa&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
