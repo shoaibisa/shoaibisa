@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## 📫 Reach me at
 [Linkedin](https://www.linkedin.com/in/shoaibisa/)
 [Twitter](https://www.twitter.com/shoaibisa)
-[Hackerrank](https://www.hackerrank.com/shoaibisa)
+<!-- [Hackerrank](https://www.hackerrank.com/shoaibisa) -->
 
 
 
