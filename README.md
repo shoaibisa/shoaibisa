@@ -17,6 +17,7 @@ Here are some ideas to get you started:
  -->
 - 🔭 Working on my classworks.
 - 🌱 I’m currently learning DSA and React.
+- 👯 I’m looking to collaborate on Real World Project.
 - 💬 Ask me [mail](mailto:shoaibisa1@gmail.com)
 
 ## 📫 Reach me at
