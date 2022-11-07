@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### My stats
 
-![Shoaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoaibisa)
+<!-- ![Shoaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoaibisa) -->
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shoaibisa)
